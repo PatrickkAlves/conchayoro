@@ -1,8 +1,8 @@
 name: conchayoro-pipeline
  
-on: 
+on:
   workflow_dispatch
- 
+  
 jobs:
   build:
     runs-on: ubuntu-latest
