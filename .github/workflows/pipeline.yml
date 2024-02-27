@@ -1,6 +1,6 @@
 name: conchayoro-pipeline
  
-on:
+on: workflow_dispatch
   push:
     branches: [ "main" ]
  
